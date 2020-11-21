@@ -197,8 +197,8 @@
             searchQuery: '',
             people: [],
             parcels: {},
-            subject: urlParams.get('subject'),
-            body: urlParams.get('body'),
+            subject: urlParams.get('subject') || "New delivery in reception",
+            body: urlParams.get('body') || "You have a new delivery in reception. Please collect it at your earliest convenience.",
             filename: "Choose people file (.csv)"
         },
         computed: {
