@@ -52,7 +52,7 @@ Line breaks must be denoted using \r\n
 
 ### Adding deliveries
 
-Search for people by surname using the search box. Once you have found them, click "Add Parcel" or "Add Letter" as appropriate. Their name will appear in the Deliveries list on the right hand side of the page. You can adjust the number of parcels/letters as you like.
+Search for people by surname using the search box. Once you have found them, click `Add Parcel` or `Add Letter` as appropriate. Their name will appear in the Deliveries list on the right hand side of the page. You can adjust the number of parcels/letters as you like.
 
 ### Configuring email settings
 
