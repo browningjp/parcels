@@ -68,6 +68,10 @@ Click `Send emails` - this will open your default mail application with the mess
 
 Click `Print List` (or print using the browser menu) to print out a list of the deliveries. There is a column available for recipients to sign for parcels/letters as well.
 
+## Data protection
+
+The application is GDPR-compliant by design. The personal data never leaves your device - everything is done within the browser. When emailing recipients, the application uses your default mail application, and adds the recipients to the `bcc` field, so that they cannot see each other.
+
 ## Known Issues
 
 * Parsing of the CSV files is a bit crude, might be prone to errors if there are differences in the CSV file (for instance, lines are separated by \r\n)
