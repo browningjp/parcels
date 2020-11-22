@@ -213,7 +213,7 @@
                 }
             },
             mailtoLink() { // generate mailto link from parcel email addresses and email template
-                emailsArray = Object.values(this.parcels).map(a => a.person.email);
+                emailsArray = Object.values(this.sortedParcels).map(a => a.person.email);
                 emailsString = emailsArray.join();
                 subjectString = encodeURIComponent(this.subject);
                 bodyString = encodeURIComponent(this.body);
