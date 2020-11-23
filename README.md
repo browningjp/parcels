@@ -43,12 +43,12 @@ You will need four columns of data, in this order:
 
 1. Surname
 2. First name
-3. Middle names
+3. Middle names (space separated, NOT comma separated)
 4. Email address
 
 The first row is reserved for these headings.
 
-Line breaks must be denoted using \r\n
+Line breaks must be denoted using \r\n, and commas should be used only as delimiters.
 
 ### Adding deliveries
 
