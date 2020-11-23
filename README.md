@@ -46,7 +46,7 @@ You will need four columns of data, in this order:
 3. Middle names (space separated, NOT comma separated)
 4. Email address
 
-The first row is reserved for these headings.
+The first row is reserved for these headings. The data should be sorted alphabetically by surname.
 
 Line breaks must be denoted using \r\n, and commas should be used only as delimiters.
 
