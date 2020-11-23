@@ -31,7 +31,7 @@ It's designed with University halls of residence in mind, but could equally be a
 
 To use the system, you will need a CSV file containing the data of all the people. See [CSV file format](#csv-file-format) for more details on the format.
 
-The system is available at [www.jonnybrowning.com/parcels](https://www.jonnybrowning.com/parcels).
+The system is available at [parcels.codotypes.com](https://parcels.codotypes.com).
 
 ### Loading in the data
 
