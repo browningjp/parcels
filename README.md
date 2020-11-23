@@ -29,7 +29,7 @@ It's designed with University halls of residence in mind, but could equally be a
 
 ## Getting Started
 
-To use the system, you will need a CSV file containing the data of all the people. See [CSV file format](#csv-file-format) for more details on the format.
+To use the system, you will need a CSV file containing the data of all the people. See [CSV file format](#csv-file-format) for more details on the format. You can try out the system using some [dummy data](https://raw.githubusercontent.com/browningjp/parcels/master/example.csv).
 
 The system is available at [parcels.codotypes.com](https://parcels.codotypes.com).
 
